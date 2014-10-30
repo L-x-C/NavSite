@@ -9,7 +9,7 @@ $(function(){
 		$(this).addClass('active');
 		searchOpt=$(this).index();			//记录当前选中的选项，以后续判断不同搜索链接
 	});
-	// 搜索输入栏被点击时加长，搜索变成百度一下
+	// 搜索输入栏被点击时加长
 	$('#searchInput').click(function(event) {
 		event.stopPropagation();
 		$(this).removeClass('col-sm-3 col-sm-offset-4').addClass('col-sm-5 col-sm-offset-3');
