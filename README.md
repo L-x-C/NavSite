@@ -2,4 +2,4 @@ NavSite
 =======
 
 bootstrap exercise
-Demo:www.iamlxc.com/nav
+Demo:http://l-x-c.github.io/nav/
